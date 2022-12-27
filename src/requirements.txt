@@ -45,7 +45,7 @@ rcssmin==1.0.6
 redis==2.10.6
 requests==2.18.4
 rjsmin==1.0.12
-setuptools==28.8.0
+setuptools==65.5.1
 simplegeneric==0.8.1
 six==1.11.0
 sorl-thumbnail==12.4.1
